@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T03:08:47.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="dcmsnBax2ZoQt5cLLBm8" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T03:12:53.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="Qmq6bTrwW5CCzxaQw516" version="14.2.9" type="github">
   <diagram id="eG5aiIGwPH6QsHZ0CiSs" name="第 1 页">
     <mxGraphModel dx="1673" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,14 +161,20 @@
         <mxCell id="IGkinvyOdZnhhztwzakV-64" value="按照配置选择回调策略" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontFamily=Verdana;fontSize=15;fontStyle=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="426.25" width="300" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-66" value="分页回调" style="shape=tape;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="940" y="330" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-67" value="滚动回调" style="shape=tape;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1100" y="330" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IGkinvyOdZnhhztwzakV-69" value="业务方&lt;br&gt;数据查询接口" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;dashed=1;dashPattern=1 1;strokeWidth=2;perimeterSpacing=0;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="20" height="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IGkinvyOdZnhhztwzakV-71" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;strokeWidth=2;fontFamily=Verdana;fontSize=15;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="376.25" width="480" height="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IGkinvyOdZnhhztwzakV-73" value="分页" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=11.5196078431372;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#CC0000;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="980" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IGkinvyOdZnhhztwzakV-74" value="滚动" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=11.5196078431372;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#CC0000;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IGkinvyOdZnhhztwzakV-75" value="分页" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=11.5196078431372;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#CC0000;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="410" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
