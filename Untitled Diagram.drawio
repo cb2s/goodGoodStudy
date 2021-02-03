@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T05:46:48.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="WoM2OaQPK7DH-DGWE08I" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T11:57:52.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="NU5FpDjidyA6OfoLqEZc" version="14.2.9" type="github">
   <diagram id="eG5aiIGwPH6QsHZ0CiSs" name="第 1 页">
-    <mxGraphModel dx="1673" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
         <mxCell id="IGkinvyOdZnhhztwzakV-75" value="回调策略" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=4.166666666666903;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="514" width="70" height="70.88" as="geometry" />
         </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-80" value="回调引擎" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#2D7600;strokeWidth=2;fillColor=#60a917;fontFamily=Verdana;fontSize=15;align=center;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="IGkinvyOdZnhhztwzakV-80" value="回调数据收集" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="505" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IGkinvyOdZnhhztwzakV-85" value="并发管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-115" value="获取数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="IGkinvyOdZnhhztwzakV-88">
+        <mxCell id="IGkinvyOdZnhhztwzakV-115" value="获取数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Verdana;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="IGkinvyOdZnhhztwzakV-88">
           <mxGeometry x="-0.3805" relative="1" as="geometry">
             <mxPoint x="-18.28" as="offset" />
           </mxGeometry>
@@ -250,7 +250,7 @@
         <mxCell id="IGkinvyOdZnhhztwzakV-117" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=15;fontColor=#1A1A1A;dashed=1;strokeColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" edge="1" parent="1" source="IGkinvyOdZnhhztwzakV-95" target="IGkinvyOdZnhhztwzakV-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-95" value="结果消息通知" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#2D7600;strokeWidth=2;fillColor=#60a917;fontFamily=Verdana;fontSize=15;align=center;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="IGkinvyOdZnhhztwzakV-95" value="结果消息通知" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="570" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IGkinvyOdZnhhztwzakV-96" value="数据计算切分" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;dashPattern=1 1;sketch=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Verdana;fontSize=15;align=center;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -265,7 +265,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IGkinvyOdZnhhztwzakV-114" value="通知结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="IGkinvyOdZnhhztwzakV-106">
+        <mxCell id="IGkinvyOdZnhhztwzakV-114" value="通知结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Verdana;fontColor=#1A1A1A;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="IGkinvyOdZnhhztwzakV-106">
           <mxGeometry x="-0.1931" y="-1" relative="1" as="geometry">
             <mxPoint x="-9.56" y="-0.86" as="offset" />
           </mxGeometry>
